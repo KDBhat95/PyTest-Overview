@@ -55,7 +55,7 @@ Run the test with the following command –
 
 The above command will generate the following output –
  
-
+<img src=https://github.com/KDBhat95/PyTest-Overview/blob/main/pytest_img.PNG width=800 /><br>
 
 ### How Pytest identifies the test files and test methods
 
