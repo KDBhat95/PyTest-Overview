@@ -75,9 +75,9 @@ PyTest has 2 main advanced features that can also be used:
 
 *	Fixtures - Fixtures are how test setups (and any other helpers) are shared between tests. While we can use plain functions and variables as helpers, fixtures are super-powered with functionality, including:
 
-  *	The ability to depend on and build on top of each other to model complex functionality.
+    *	The ability to depend on and build on top of each other to model complex functionality.
 
-  *	The ability to customize this functionality by overriding fixtures at various levels.
+    *	The ability to customize this functionality by overriding fixtures at various levels.
 
 *	The ability to parametrize (that is, take on multiple values) and magically run every dependent test once for each parameterized value.
 
